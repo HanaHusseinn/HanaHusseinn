@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @HanaHusseinn
 - 👀 I’m interested in Machine Learning and Data Analysis
 
-- 📫 You can reach through:
-      Email: hana-hussein@outlook.com
-      LinkedIn profile: https://www.linkedin.com/in/hana-hussein-4461351b5/
+- 📫 You can reach through my LinkedIn profile: https://www.linkedin.com/in/hana-hussein-4461351b5/
 
 <!---
 HanaHusseinn/HanaHusseinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
